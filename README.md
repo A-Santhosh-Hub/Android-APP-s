@@ -8,4 +8,4 @@ San File Manager ---> ( https://drive.google.com/drive/folders/19sSm8tscX-1Xep9x
 
 SanCode ---> VS Code In Mobile [offline] (https://drive.google.com/file/d/1l_23iL6ldEvpoQtFvV8bPtAOJifs9H1q/view?usp=sharing)
 
-https://drive.google.com/drive/folders/1nplv5GnzoS6PszsVCD4PZ8TjXoMSwg3s?usp=sharing
+San Pay Note ---> (https://drive.google.com/drive/folders/1nplv5GnzoS6PszsVCD4PZ8TjXoMSwg3s?usp=sharing )
