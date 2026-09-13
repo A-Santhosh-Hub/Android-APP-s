@@ -15,4 +15,6 @@ ALL APP'S FOLDER [ https://drive.google.com/file/d/1x5VWtlueRhYVsiGZgypKSJeOrcbJ
 
 4. San Pay Note ---> (https://drive.google.com/drive/folders/1nplv5GnzoS6PszsVCD4PZ8TjXoMSwg3s?usp=sharing )
 
+5. Astro talk [ ALP CONS ]
+
    ----------------APP-------------------
