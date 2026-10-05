@@ -58,3 +58,13 @@ Your feedback will help me find real-world problems that automated testing can't
 — SanStudio
 
 
+
+
+How to run the test now
+On Home, keep your destination (Erode, 11.34706, 77.71997).
+Open the Settings tab and scroll to Developer & Diagnostics.
+Tap Field Journey (validation).
+Set the stage distances, for example 5000 / 3000 / 1000 (metres).
+Tap Start field journey and allow the location and notification permissions.
+You should see Journey: Active, the distance to Erode, all stages ARMED, and a "SanWake – Erode" notification.
+This is the screen I tested on real phones, and starting from it works.
